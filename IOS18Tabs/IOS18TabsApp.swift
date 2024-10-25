@@ -11,7 +11,7 @@ import SwiftUI
 struct IOS18TabsApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            StartTabView()
         }
     }
 }
